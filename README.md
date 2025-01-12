@@ -32,6 +32,7 @@ the Rust programming language. It is:
 [Chat](https://discord.gg/tokio)
 
 ## Overview
+## By Mudassir Alam
 
 Tokio is an event-driven, non-blocking I/O platform for writing
 asynchronous applications with the Rust programming language. At a high
